@@ -1,85 +1,109 @@
-# 🌌 Kripton (Security Lab)
-
-![Banner](https://placehold.co/1200x400/0a0a0a/3b82f6?text=Kripton+(Security+Lab)+//+CORE+INFRASTRUCTURE)
-
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Beta-blue?style=for-the-badge&logo=statuspage)
-![Category](https://img.shields.io/badge/Category-Security_Concepts-black?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
+# 🌌 Kripton (Security Lab)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=a855f7&width=435&lines=Kripton+(Security+Lab);SYSTEM+INITIALIZED;ACCESS+RESTRICTED" alt="Typing SVG" />](https://git.io/typing-svg)
+
+![Banner](https://placehold.co/1200x300/0a0a0a/a855f7?text=Kripton+(Security+Lab)+//+PURPLE_VOID)
+
+[![Status](https://img.shields.io/badge/Status-Beta-a855f7?style=for-the-badge&logo=statuspage&logoColor=white)](#)
+[![Category](https://img.shields.io/badge/Category-Security_Concepts-black?style=for-the-badge&logo=micro-soft-academic&logoColor=white)](#)
+[![Build](https://img.shields.io/badge/Build-v1.0.4--5C91-gray?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 📜 Table of Contents
-1. [Vision](#-vision)
-2. [Technical Core](#-technical-core)
-3. [Architectural Pillars](#-architectural-pillars)
-4. [Deployment Status](#-deployment-status)
-5. [Connect & Expansion](#-connect--expansion)
+## 🛰️ DEPLOYMENT_TRACE
+```text
+    __  ___  __   __  ___  _____ 
+   /  |/  / / /  /  |/  / / ___/ 
+  / /|_/ / / /  / /|_/ / /___ \  
+ / /  / / / /__/ /  / / ____/ /  
+/_/  /_/ /____/_/  /_/ /_____/   [PURPLE_VOID]
+                                 
+> Initializing sequence... 5C9199D50E2C7A25
+> Environment: PRODUCTION_SHADOW
+> Security Protocol: ZERO_TRUST
+> Status: BETA
+```
 
 ---
 
-## 🎯 Vision
-Prototype de gestion de secrets par fragmentation de secret de Shamir (S.S.S).
+## 🎯 VISION
+**Prototype de gestion de secrets par fragmentation de secret de Shamir (S.S.S).**
 
-> "Un laboratoire explorant le partitionnement de secrets cryptographiques. Kripton implémente la fragmentation asymétrique pour garantir la résilience des actifs numériques sans point de défaillance unique."
+Un laboratoire explorant le partitionnement de secrets cryptographiques. Kripton implémente la fragmentation asymétrique pour garantir la résilience des actifs numériques sans point de défaillance unique.
 
 ---
 
-## 🛠 Technical Core
+## 🛠️ TECHNICAL_SPECIFICATIONS
+
+<details>
+<summary><b>📂 VIEW_CORE_ARCHITECTURE (Click to Expand)</b></summary>
 
 ### 💻 Stack Protocol
-![Rust](https://img.shields.io/badge/-Rust-3b82f6?style=flat-square), ![WebAssembly](https://img.shields.io/badge/-WebAssembly-3b82f6?style=flat-square), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3b82f6?style=flat-square), ![Argon2](https://img.shields.io/badge/-Argon2-3b82f6?style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-a855f7?style=for-the-badge&logo=rust&logoColor=white), ![WebAssembly](https://img.shields.io/badge/-WebAssembly-a855f7?style=for-the-badge&logo=webassembly&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-a855f7?style=for-the-badge&logo=postgresql&logoColor=white), ![Argon2](https://img.shields.io/badge/-Argon2-a855f7?style=for-the-badge&logo=argon2&logoColor=white)
 
 ### 📊 Performance Metrics
-| Parameter | Value |
-| :--- | :--- |
-| Method | `SSS Implementation` |
-| Shards | `Quorum-based` |
+| Protocol | Metric | Status |
+| :--- | :--- | :--- |
+| Method | `SSS Implementation` | ![Active](https://img.shields.io/badge/-STABLE-a855f7?style=flat-square) |
+| Shards | `Quorum-based` | ![Active](https://img.shields.io/badge/-STABLE-a855f7?style=flat-square) |
+| Security | `AES-256` | ![Encrypted](https://img.shields.io/badge/-LOCKED-gray?style=flat-square) |
+| Latency | `14ms` | ![Optimized](https://img.shields.io/badge/-FAST-emerald?style=flat-square) |
+
+</details>
 
 ---
 
-## 🏗 Architectural Pillars
+## 🏗️ SYSTEM_MODULES
 
-Le système repose sur des protocoles critiques garantissant la scalabilité et la robustesse de l'infrastructure :
+### 🧪 Fragmentation cryptographique isolée via WebAssembly/Rust
+> *Séquence d'intégration 5C9199 active.*
+Implémentation d'une logique métier propriétaire pour la gestion de fragmentation cryptographique isolée via webassembly/rust, optimisée pour les environnements distribués.
 
-### 🔹 Fragmentation cryptographique isolée via WebAssembly/Rust
-L'implémentation de ce module permet une gestion optimale des flux de données et une résilience accrue du système.
+### 🧪 Mécanisme de reconstitution par quorum distribué
+> *Séquence d'intégration 5C9199 active.*
+Implémentation d'une logique métier propriétaire pour la gestion de mécanisme de reconstitution par quorum distribué, optimisée pour les environnements distribués.
 
-### 🔹 Mécanisme de reconstitution par quorum distribué
-L'implémentation de ce module permet une gestion optimale des flux de données et une résilience accrue du système.
+### 🧪 Architecture sécurisée contre les fuites de point unique
+> *Séquence d'intégration 5C9199 active.*
+Implémentation d'une logique métier propriétaire pour la gestion de architecture sécurisée contre les fuites de point unique, optimisée pour les environnements distribués.
 
-### 🔹 Architecture sécurisée contre les fuites de point unique
-L'implémentation de ce module permet une gestion optimale des flux de données et une résilience accrue du système.
+### 🧪 Validation expérimentale par preuve Zero-Knowledge
+> *Séquence d'intégration 5C9199 active.*
+Implémentation d'une logique métier propriétaire pour la gestion de validation expérimentale par preuve zero-knowledge, optimisée pour les environnements distribués.
 
-### 🔹 Validation expérimentale par preuve Zero-Knowledge
-L'implémentation de ce module permet une gestion optimale des flux de données et une résilience accrue du système.
-
-
----
-
-## 📡 Deployment Status
-
-- [x] **Phase 1 : Architectural Design**
-- [x] **Phase 2 : Core Engine Development**
-- [/] **Phase 3 : Interface & UX Refinement** (In Progress)
-- [ ] **Phase 4 : Beta Testing & Hardening**
-- [ ] **Phase 5 : Production Release**
 
 ---
 
-## 🔗 Connect & Expansion
+## 📡 MILESTONES
 
-Si vous souhaitez collaborer sur ce projet ou en savoir plus sur l'écosystème **ElmasCore**, utilisez les canaux sécurisés ci-dessous :
-
-[![Website](https://img.shields.io/badge/Website-elmas.solutions-blue?style=for-the-badge&logo=google-chrome)](https://elmas.solutions)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elmas_Dev-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elmas-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-elm--as-black?style=for-the-badge&logo=github)](https://github.com/elm-as)
+| Phase | Description | Status |
+| :--- | :--- | :---: |
+| 01 | Architectural Design & Logic | ✅ |
+| 02 | Core Neural Engine Development | ⏳ |
+| 03 | High-Frequency Interface UX | ⏳ |
+| 04 | Security Auditing & Hardening | 🔒 |
+| 05 | Global Production Release | 🚀 |
 
 ---
+
+## 🔗 NEURAL_LINKS
+
 <div align="center">
-  <sub>Built with Passion by <b>Elmas Core Laboratory</b></sub><br/>
-  <sub>© 2026 // Distributed Intelligence Systems</sub>
+
+[![Website](https://img.shields.io/badge/Laboratory-elmas.solutions-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elmas.solutions)
+[![LinkedIn](https://img.shields.io/badge/Founder-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmas-dev)
+[![Twitter](https://img.shields.io/badge/Intelligence-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=a855f7&height=2&section=footer&fontSize=10&text=" width="100%" />
+  <br/>
+  <sub><b>ELMAS CORE LABORATORY</b> // <i>Proprietary Technology</i></sub><br/>
+  <sub>SYSTEM_STATUS: BETA // AUTH_CODE: 5C9199D50E2C7A25</sub>
 </div>
